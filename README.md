@@ -18,5 +18,5 @@ Si vous utilisez ce code dans vos travaux, merci de bien vouloir citer le dépô
 
 ### Astuce :  
 
-- Remplace `[date]` par la date à laquelle tu consultes le dépôt (ex. 13 juillet 2025).  
+- Remplace `[date]` par la date à laquelle vous consultez ce dépôt (ex. 13 juillet 2025).  
 
