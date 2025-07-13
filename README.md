@@ -12,7 +12,7 @@ Ce dépôt a pour objectif de centraliser l’ensemble des scripts de datavisual
 
 Si vous utilisez ce code dans vos travaux, merci de bien vouloir citer le dépôt GitHub comme suit :
 
-Fei, Y. (2025). SSHDatavizTools [GitHub repository]. Consulté le [date], à l’adresse https://github.com/yutong-fei/SSHDatavizTools
+> Fei, Y. (2025). SSHDatavizTools [GitHub repository]. Consulté le [date], à l’adresse https://github.com/yutong-fei/SSHDatavizTools
 
 ---
 
