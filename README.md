@@ -5,4 +5,4 @@ Ce dépôt a pour objectif de centraliser l’ensemble des scripts de datavisual
 1. **Analyse proportionnelle entre deux variables**  
 [Ce script](cross_analysis/cross_category_distribution_plot.py) permet de visualiser la distribution des catégories d'une colonne en fonction des catégories d'une autre colonne dans un fichier CSV. Il effectue une analyse croisée (tableau croisé) et génère un graphique à barres empilées pour représenter les proportions. Voici un [exemple de figure](cross_analysis/fig-cross-analysis.png).
 
-
+2. **Mise à jour en cours 
