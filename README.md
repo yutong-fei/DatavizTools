@@ -13,3 +13,10 @@ Ce dépôt a pour objectif de centraliser l’ensemble des scripts de datavisual
 Si vous utilisez ce code dans vos travaux, merci de bien vouloir citer le dépôt GitHub comme suit :
 
 Yutong Fei, SSHDatavizTools, GitHub repository, URL: https://github.com/yutong-fei/SSHDatavizTools, consulté le [date].
+
+---
+
+### Astuce :  
+
+- Remplace `[date]` par la date à laquelle tu consultes le dépôt (ex. 13 juillet 2025).  
+- Sur GitHub, les blocs de code sont encadrés par trois backticks (```), donc assure-toi de bien copier-coller comme ci-dessus.
